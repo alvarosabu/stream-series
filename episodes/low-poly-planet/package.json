@@ -23,14 +23,13 @@
     "lint:fix": "eslint . --fix"
   },
   "dependencies": {
-    "@tresjs/cientos": "4.0.3",
-    "@tresjs/core": "4.3.0",
+    "@tresjs/core": "^4.3.0",
+    "@tresjs/cientos": "^4.0.3",
     "@tresjs/leches": "^0.14.0",
     "three": "^0.169.0",
     "vue": "^3.4.32"
   },
   "devDependencies": {
-    "@tresjs/eslint-config": "^1.1.0",
     "@types/three": "^0.169.0",
     "@vitejs/plugin-vue": "^5.0.5",
     "eslint": "^9.7.0",
